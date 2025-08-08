@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Open Portfolio with Live Server",
+			"type": "shell",
+			"command": "echo",
+			"args": [
+				"Portfolio ready! Install Live Server extension and right-click index.html to launch."
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}
