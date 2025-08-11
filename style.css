@@ -1,3 +1,21 @@
+.project-title-link:link {
+    color: #222 !important;
+}
+/* Project Title Link Styles */
+.project-title-link {
+    color: #222;
+    text-decoration: none;
+    transition: color 0.2s, text-shadow 0.2s;
+}
+.project-title-link:hover {
+    color: #7c3aed;
+    text-shadow: 0 2px 8px rgba(124,58,237,0.08);
+    text-decoration: none;
+    cursor: pointer;
+}
+.project-title-link:visited {
+    color: #b39ddb;
+}
 :root {
     /* Colors */
     --primary-color: #6c5ce7;
