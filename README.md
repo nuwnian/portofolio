@@ -47,6 +47,7 @@ Technologies Used
 - HTML5: Semantic markup, accessibility features
 - CSS3: Custom properties, Grid/Flexbox, animations
 - JavaScript: ES6+, DOM manipulation, form handling
+- Python: Flask, scripting, automation
 - Font Awesome: Professional icons
 - Google Fonts: Poppins & Quicksand typography
 - GitHub Pages: Deployment and hosting
